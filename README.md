@@ -8,8 +8,8 @@
 
 ### 🚀 Sobre mim
 
-- 🎓 Cursando **Desenvolvimento de Sistemas (ETEC)** — concluindo o TCC
-- 💻 Desenvolvendo o **iSpec**, um sistema completo de inspeção de equipamentos de incêndio
+- 🎓 Concluído **Desenvolvimento de Sistemas (ETEC)** — concluído o TCC
+- 💻 Desenvolvedor do **iSpec**, um sistema completo de inspeção de equipamentos de incêndio
 - ☕ Stack principal: **Java · Spring Boot · MySQL · JavaScript**
 - 📱 Experiência com desenvolvimento Android nativo (Kotlin/Java)
 - 🌱 Aprendendo continuamente sobre arquitetura de APIs REST, segurança web e clean code
