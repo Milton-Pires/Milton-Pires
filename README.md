@@ -48,9 +48,9 @@
 ### 📊 Estatísticas
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Milton-Pires&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milton-Pires&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Milton-Pires&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak"/>
 </p>
+
 
 ---
 
